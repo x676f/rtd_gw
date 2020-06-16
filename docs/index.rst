@@ -8,7 +8,7 @@ LOG & SHARE
 
 .. toctree::
    :maxdepth: 2
-   :includehidden:
+   :caption: 番茄网关
 
    gateway
 
