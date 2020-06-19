@@ -1,0 +1,12 @@
+{
+  "server": "your.proxy.domain.or.ip",
+  "server_port": 10000,
+  "method": "your-method",
+  "password": "your-password",
+  "protocol": "your-protocol",
+  "protocol_param": "",
+  "obfs": "your-obfs",
+  "obfs_param": "your-value",
+  "local_address": "0.0.0.0",
+  "local_port": 1080
+}

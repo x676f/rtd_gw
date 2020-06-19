@@ -7,8 +7,9 @@ LOG & SHARE
 ------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: 番茄网关
+   :maxdepth: 4
+   :caption: 网络相关
 
-   gateway
+   network/gateway
+   network/route
 
